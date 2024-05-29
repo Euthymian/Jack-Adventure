@@ -1,0 +1,101 @@
+﻿  Jack Adventure.cpp
+  Application.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\Application.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ResourceManager.cpp
+  ScoreManager.cpp
+  WindowConnector.cpp
+  Animation.cpp
+  AnimationV2.cpp
+  Boss.cpp
+  BSAttack.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Boss\BSAttack.cpp(12,113): warning C4305: 'argument': truncation from 'double' to 'float'
+  BSJump.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Boss\BSJump.cpp(12,111): warning C4305: 'argument': truncation from 'double' to 'float'
+  BSJump_Bite.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Boss\BSJump_Bite.cpp(12,116): warning C4305: 'argument': truncation from 'double' to 'float'
+  Bullet.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Bullet\Bullet.cpp(33,111): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Bullet\Bullet.cpp(35,113): warning C4305: 'argument': truncation from 'double' to 'float'
+  BulletManager.cpp
+  Collision.cpp
+  Bat.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\Bat.cpp(11,104): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\Bat.cpp(12,103): warning C4305: 'argument': truncation from 'double' to 'float'
+  Creep.cpp
+  CreepManager.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(82,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(82,51): warning C4244:         with
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(82,51): warning C4244:         [
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(82,51): warning C4244:             T=float
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(82,51): warning C4244:         ]
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(83,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(83,78): warning C4244:         with
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(83,78): warning C4244:         [
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(83,78): warning C4244:             T=float
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(83,78): warning C4244:         ]
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(99,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(99,51): warning C4244:         with
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(99,51): warning C4244:         [
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(99,51): warning C4244:             T=float
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(99,51): warning C4244:         ]
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(100,106): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(100,106): warning C4244:         with
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(100,106): warning C4244:         [
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(100,106): warning C4244:             T=float
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(100,106): warning C4244:         ]
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(100,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(100,79): warning C4244:         with
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(100,79): warning C4244:         [
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(100,79): warning C4244:             T=float
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\CreepManager.cpp(100,79): warning C4244:         ]
+  Crow.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\Crow.cpp(11,112): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Creep\Crow.cpp(12,110): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameButton.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\GameButton.cpp(18,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\GameButton.cpp(18,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  HitBox.cpp
+  Generating Code...
+  Compiling...
+  Layer.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\ParallelBackground\Layer.cpp(10,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\ParallelBackground\Layer.cpp(11,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\ParallelBackground\Layer.cpp(14,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\ParallelBackground\Layer.cpp(15,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\ParallelBackground\Layer.cpp(23,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\ParallelBackground\Layer.cpp(24,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\ParallelBackground\Layer.cpp(29,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\ParallelBackground\Layer.cpp(30,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ParallelBackground.cpp
+  Player.cpp
+  PSAttack.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Player\PSAttack.cpp(11,115): warning C4305: 'argument': truncation from 'double' to 'float'
+  PSDamaged.cpp
+  PSDie.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Player\PSDie.cpp(9,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Player\PSDie.cpp(14,113): warning C4305: 'argument': truncation from 'double' to 'float'
+  PSFall.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Player\PSFall.cpp(7,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Player\PSFall.cpp(12,118): warning C4305: 'argument': truncation from 'double' to 'float'
+  PSJump.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Player\PSJump.cpp(7,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Player\PSJump.cpp(12,116): warning C4305: 'argument': truncation from 'double' to 'float'
+  PSRun.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameObjects\Player\PSRun.cpp(11,109): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameStateBase.cpp
+  GameStateMachine.cpp
+  GSAbout.cpp
+  GSEnd.cpp
+  GSHighScore.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameStateManager\GSHighScore.cpp(44,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameStateManager\GSHighScore.cpp(44,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameStateManager\GSHighScore.cpp(68,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GSIntro.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameStateManager\GSIntro.cpp(37,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GSMenu.cpp
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameStateManager\GSMenu.cpp(35,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Code\GameC++\Jack-Adventure\Jack Adventure\Sources\GameStateManager\GSMenu.cpp(35,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  GSPlay.cpp
+  GSSettings.cpp
+  Generating Code...
+  Jack Adventure.vcxproj -> D:\Code\GameC++\Jack-Adventure\x64\Debug\Jack Adventure.exe
